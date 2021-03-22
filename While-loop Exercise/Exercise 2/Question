@@ -1,0 +1,15 @@
+Cho một file text tên draft.txt như sau:
+
+"an so dfn Kteam odsa in fasfna Kteam mlfjier
+as dfasod nf ofn asdfer fsan dfoans ldnfad Kteam asdfna
+asdofn sdf pzcvqp Kteam dfaojf kteam dfna Kteam dfaodf
+afdna Kteam adfoasdf ncxvo aern Kteam dfad"
+
+Trong file này có một số chữ Kteam (Kteam sẽ không xuất hiện ở đầu dòng), và trước nó là một chữ ngẫu nhiên nào đó và nhiệm vụ của bạn là đổi chữ đó thành How. Nhớ là sử dụng vòng lặp.
+Sau khi đổi thành công, bạn lưu nội dung đó vào file tên kteam.txt.
+Đây là mẫu của kteam.txt:
+"an so How Kteam odsa in How Kteam mlfjier
+as dfasod nf ofn asdfer fsan dfoans How Kteam asdfna
+asdofn sdf How Kteam dfaojf kteam How Kteam dfaodf
+How Kteam adfoasdf ncxvo How Kteam dfad
+"
