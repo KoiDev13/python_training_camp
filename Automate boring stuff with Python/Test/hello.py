@@ -1,1 +1,3 @@
-print("Hello there!\nHow are you?\nI\'m doing fine.")
+names = ['Bob', 'Alice', 'Guido']
+for index, value in enumerate(names):
+    print(f'{index}: {value}')
