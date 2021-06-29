@@ -1,4 +1,3 @@
 import pyinputplus as pyip
-# response = pyip.inputNum(prompt='Enter a number here: \n')
-# print(f"Your number is {response}")
-help(pyip.inputChoice)
+response = pyip.inputNum(blockRegexes=[r'[02468]$'])
+print(f"Your number is {response}")
