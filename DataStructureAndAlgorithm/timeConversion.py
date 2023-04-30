@@ -1,17 +1,37 @@
-s = '12:05:45PM'
+#!/bin/python3
 
-if 'AM' and '12' in s:
-    h = '00'
-    m = s[3:(len(s)-2)]
-    ns = h+":"+m
-if 'PM' and '12' in s:
-    h = '12'
-    m = s[3:(len(s)-2)]
-    ns = h+":"+m
-if 'AM' in s and '12' not in s:
-    ns = s[:(len(s)-2)]
-if 'PM' in s and '12' not in s:
-    h = str(int(s[:2]) + 12)
-    m = s[3:(len(s)-2)]
-    ns = h+":"+m
-print(ns)
+import math
+import os
+import random
+import re
+import sys
+
+#
+# Complete the 'timeConversion' function below.
+#
+# The function is expected to return a STRING.
+# The function accepts STRING s as parameter.
+#
+
+def timeConversion(s):
+    # Write your code here
+    if s[-2:] == "AM" and s[:2] == "12": 
+        return "00" + s[2:-2] 
+    elif s[-2:] == "AM": 
+        return s[:-2]
+    elif s[-2:] == "PM" and s[:2] == "12": 
+        return s[:-2] 
+    else:
+       ans = int(s[:2]) + 12
+       return str(str(ans) + s[2:8]) 
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    s = input()
+
+    result = timeConversion(s)
+
+    fptr.write(result + '\n')
+
+    fptr.close()
