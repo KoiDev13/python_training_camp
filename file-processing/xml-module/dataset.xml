@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	<record>
+		<id>1</id>
+		<product>Versatainer Nc - 8288</product>
+		<price>$4.82</price>
+		<description>Corneal deposits in metabolic disorders, left eye</description>
+	</record>
+	<record>
+		<id>2</id>
+		<product>Rum - Dark, Bacardi, Black</product>
+		<price>$2.57</price>
+		<description>Burn of second degree of unspecified toe(s) (nail), sequela</description>
+	</record>
+	<record>
+		<id>3</id>
+		<product>Uniform Linen Charge</product>
+		<price>$3.19</price>
+		<description>Matern care for oth or susp poor fetl grth, unsp tri, oth</description>
+	</record>
+	<record>
+		<id>4</id>
+		<product>Veal - Insides, Grains</product>
+		<price>$1.73</price>
+		<description>Other injury of ascending [right] colon, sequela</description>
+	</record>
+	<record>
+		<id>5</id>
+		<product>Pasta - Fett Alfredo, Single Serve</product>
+		<price>$9.40</price>
+		<description>Unspecified petrositis, right ear</description>
+	</record>
+	<record>
+		<id>6</id>
+		<product>Goldschalger</product>
+		<price>$4.45</price>
+		<description>Laceration without foreign body of trachea, sequela</description>
+	</record>
+	<record>
+		<id>7</id>
+		<product>Water - Mineral, Natural</product>
+		<price>$4.54</price>
+		<description>Colles' fx unsp radius, subs for opn fx type I/2 w nonunion</description>
+	</record>
+	<record>
+		<id>8</id>
+		<product>Macaroons - Homestyle Two Bit</product>
+		<price>$7.56</price>
+		<description>Malignant neoplasm of other specified ill-defined sites</description>
+	</record>
+	<record>
+		<id>9</id>
+		<product>Lobster - Live</product>
+		<price>$3.20</price>
+		<description>Displ transverse fx shaft of humer, r arm, init for opn fx</description>
+	</record>
+	<record>
+		<id>10</id>
+		<product>Wine - Mas Chicet Rose, Vintage</product>
+		<price>$5.50</price>
+		<description>Other bursitis of elbow, left elbow</description>
+	</record>
+</dataset>
