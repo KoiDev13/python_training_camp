@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<catalog>
+	<book>
+		<author>Thompson, Keith</author>
+		<title>Oh Python! My Python!</title>
+		<genre>biography</genre>
+		<isbn />
+	</book>
+	<book>
+		<author>Fritts, Larry</author>
+		<title>Fun with Django</title>
+		<genre>satire</genre>
+		<isbn />
+	</book>
+	<book>
+		<author>Applegate, John</author>
+		<title>When Bees Attack! The Horror!</title>
+		<genre>horror</genre>
+		<isbn />
+	</book>
+	<book>
+		<author>Brown, James</author>
+		<title>Martin Buber's Philosophies</title>
+		<genre>guide</genre>
+		<isbn />
+	</book>
+	<book>
+		<author>Smith, Jackson</author>
+		<title>The Sun Also Orbits</title>
+		<genre>mystery</genre>
+		<isbn />
+	</book>
+</catalog>
