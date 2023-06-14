@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<name>Khoi 1</name>
+		<age>29</age>
+		<years_with_company>3</years_with_company>
+	</employee>
+	<employee>
+		<name>Khoi 2</name>
+		<age>30</age>
+		<years_with_company>4</years_with_company>
+	</employee>
+	<employee>
+		<name>Khoi 3</name>
+		<age>31</age>
+		<years_with_company>5</years_with_company>
+	</employee>
+</employees>
